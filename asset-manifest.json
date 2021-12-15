@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/namshi/static/css/main.782f8463.css",
+    "main.js": "/namshi/static/js/main.3ca3b6e5.js",
+    "static/js/787.07d44355.chunk.js": "/namshi/static/js/787.07d44355.chunk.js",
+    "index.html": "/namshi/index.html",
+    "main.782f8463.css.map": "/namshi/static/css/main.782f8463.css.map",
+    "main.3ca3b6e5.js.map": "/namshi/static/js/main.3ca3b6e5.js.map",
+    "787.07d44355.chunk.js.map": "/namshi/static/js/787.07d44355.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.782f8463.css",
+    "static/js/main.3ca3b6e5.js"
+  ]
+}
